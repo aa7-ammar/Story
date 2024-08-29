@@ -1,1 +1,2 @@
 something about git u know.
+making changes in another branch so that it does not affect the main branch.
